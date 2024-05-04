@@ -26,7 +26,7 @@ place-items: center;
 
 .pantalla{
     grid-column: 1 / -1;
-    background-color: rgb(127, 255, 0);
+    background-color: rgb(255, 255, 255);
     padding: 1.5rem;
     font-size: 2rem;
     text-align: right;
